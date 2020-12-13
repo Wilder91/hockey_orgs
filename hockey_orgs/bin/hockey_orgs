@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+
+require '../lib/hockey_orgs/version.rb'
+require '../lib/hockey_orgs/cli'
+require '../lib/hockey_orgs/org.rb'
+require '../lib/hockey_orgs/scraper.rb'
+require '../lib/hockey_orgs/division.rb'
+require 'net/http'
+require 'pry'
+require 'rest-client'
+require 'JSON'
+require 'httparty'
+
+Cli.new.call

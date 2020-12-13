@@ -1,0 +1,51 @@
+Okay it works but it's gotta get cleaned up big time
+
+Instantiate a class you SOB 
+that's clearly what they want from you, you just got carried away 
+thats fine though it works 
+
+lol you did that quick 
+
+need to split up some more of that bs into 
+clean little functions or methods or whatever
+
+get it going on 
+
+alphabetized, indexed, enter a number to pick a team 
+how to do that 
+what is the problem 
+that's a question for the morning 
+
+filter out invalid inputs and the indexed input thing 
+those are the big ones 
+
+don't worry about making it pretty necessarily, who cares
+
+org.rb 80 that cannot be input, i don't think
+why not? 
+well basically i'd like to get to the point where the list is
+a list of the actual objects, the instances of Org that are generated
+and are selectable based on Org.name(i did this, but Org.id instead)
+it needs to be actually selecting the instance. not just providing 
+input which i can use to call the instance.
+
+new class called like grabber or something? who cares what it's called
+thats what it will do. it will grab.
+that way the input could be a class variable or i guess an instance variable
+and even when it goes to the next method it would still grab that variable.
+
+not sure what that shit above is about. 
+
+it's broken, basically. something is trying to do too many things
+something is showing up where it shouldn't be 
+i assume it has something to do with seperation of concerns. but maybe not 
+
+take the time tomorrow(or tonight) to draw up a flowchart. 
+you absolutely can track this issue down. 
+
+the problems right now(order of importance)
+1. it's broken 
+2. filter out invalid inputs 
+3. clean it up, check out seperation of concerns
+
+just needs to be done sunday night but tomorrow would be great
